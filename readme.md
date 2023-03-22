@@ -1,3 +1,1 @@
-#<Portfolio>
-
-## This is my first attempt creating a profesional portfolio for a career in web development.  Since we have only just begun building applications in the bootcamp it is relatively minimal as far as documented work.  One of my goals for throughout this course is to consistently update this portfolio with accomplished work as it is completed and graded.  One motivating factor is that this project gets the ball rolling to have a strong portfolio to show potential employers in my job search moving forward.  So far this bootcamp has been a constant learning experience and tackling this portfolio is no different.  One thing I've specifically learned with styling is that trying out how things affect your page is a big help.  Sometimes they make things look better and other times they set you back a bit but one of the most important things is trying them firsthand to see the results.  
+# portfolio
